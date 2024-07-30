@@ -1,0 +1,49 @@
+html {
+    font-size: 10px;
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+p,
+li {
+    font-size: ;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+html {
+    background-color: black;
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: ;
+    padding: 0 20px 20px 20px;
+    border: 5px solid;
+}
+
+html {
+    color: LightGray;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: ;
+    text-shadow: ;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: 345px;
+}
+
+/* Tee Tee of Abomination */
